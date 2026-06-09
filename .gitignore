@@ -1,7 +1,6 @@
 llmenv/**
 .env
 qdrant_storage/**
-*.ipynb
 .DS_Store
 faq.db*
 __pycache__/
